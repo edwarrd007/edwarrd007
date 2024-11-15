@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @edwarrd007
-- 👀 I’m interested in Security
-- 🌱 I’m currently learning Python and c/c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ed
+- Wellcome To My GitHub
+- im programmer and Web/bug hunter
+- im interested in Cracking/Hacking, make a Funny Tools And Learn more more mroe  
 
 <!---
 edwarrd007/edwarrd007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
